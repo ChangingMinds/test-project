@@ -1,7 +1,12 @@
 # test-project
 
-Collaborators:
+# Collaborators:
+
 Ben
+
 Tom
+
 Alex
+
 Yu-Jin
+
